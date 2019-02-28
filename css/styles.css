@@ -1,3 +1,16 @@
+/*
+light pink: #FDC5F5
+pink: #F7AEF8
+purple: #B388EB
+blue: #8093F1
+light blue: #72DDF7
+*/
+
+
 body {
-  background-color: lightblue;
+  background-color: #FDC5F5;
+}
+
+h2 {
+  color: #8093F1;
 }
